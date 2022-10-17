@@ -17,7 +17,7 @@ To run these notebooks you will need to have the Python packages `pandas`, `nump
 
 The notebook `data_prep` concerns the data preparation component of KAGGLE's Titanic problem. 
 
-Run this notebook to download relevant datasets via the KAGGLE API and transform them into datasets to be parsed by machine learning models. See the notebooks for strategy in doing this.
+Run this notebook to download relevant datasets via the KAGGLE API and transform them into datasets to be parsed by machine learning models. See `data_prep` for an explanation of the strategy in preparing and transforming the data.
 
 ## Machine learning analysis
 
